@@ -1,3 +1,5 @@
  esto es el fiche1 
 
 esto es la segunda modificacion del fichero 1
+
+esto es la tercera parte del un ejerucio que no quiero que se pierdan los datos, lo voy a subir a git para que este bien guardadito
